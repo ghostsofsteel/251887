@@ -125,7 +125,7 @@ div#chatMessageContainer {
 	background: var(--darkblue50) !important;
 	color: var(--lightwhite)!important;
 	font-size: 14px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	box-shadow: var(--lightpink50) 0px -50px 36px -28px inset, 1px 1px 5px var(--darkgray)!important;
 	border: none !important;
 }
@@ -133,21 +133,21 @@ div#chatMessageContainer {
 	background: var(--cream60) !important;
 	color: var(--lightwhite) !important;
 	font-size: 14px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	box-shadow: var(--darkpink50) 0px -50px 36px -28px inset, 1px 1px 5px var(--darkgray) !important;
 	border: none !important;
 }
 .s-chat-message__pinned {
 	background: var(--lightblue50) !important;
 	color: var(--lightwhite)!important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	box-shadow: var(--lightpink50) 0px -50px 36px -28px inset, 1px 1px 5px var(--darkgray) !important;
 	border: none !important;
 }
 .s-chat-message_timestamp {
 	color: var(--lightblue)!important;
 	font-size: 12px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 }
 /* channel tabs */
 button#label_currentChannel {	
@@ -155,7 +155,7 @@ button#label_currentChannel {
 	border-radius: 5px !important;
 	color: var(--lightblue)!important;
 	font-size: 14px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	background: var(--darkpink50) !important;
 	box-shadow: var(--cream60) 0px -50px 36px -28px inset, 1px 1px 5px var(--darkgray)!important;
 }
@@ -248,7 +248,7 @@ a[href$="lionoverview.php?id=251887"]>div.cave-grid>img {
 	background: var(--lightblue70) !important;
 	box-shadow: var(--darkblue50) 0px -50px 36px -28px inset,  1px 1px 5px var(--darkgray) !important;
 	border: px ridge;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px !important;
 	max-height:155px;
 	overflow: hidden;
@@ -295,13 +295,13 @@ a:link {
 	color: var(--lightpurple) !important;
 	transition: 0.8s !important;
 	font-size: 15px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 }
 a:visited {
 	color: var(--lightpurple) !important;
 	transition: 0.8s !important;
 	font-size: 15px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 }	
 a:hover {
 	color: var(--darkpurple)  !important;
@@ -349,7 +349,7 @@ table#player img {
 	border-top: none;
 	color: var(--lightpurple) !important;
 	font-size: 20px !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px;
 	box-shadow: var(--cream60) 0px -50px 36px -28px inset, 1px 1px 5px var(--darkgray) !important;
 	font-family: 'Fondamento', cursive;
@@ -370,7 +370,7 @@ table#player img {
 .navbar-default .navbar-nav > li > a:hover {
 	background:var(--darkpink70);
 	color: var(--lightpurple) !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 20px;
 	box-shadow: var(--cream60) 0px -50px 36px -48px inset !important;
 	transition: 0.7s!important;
@@ -383,7 +383,7 @@ table#player img {
 	border-bottom: 0px ridge;
 	border-radius: 10px;
 	box-shadow: var(--lightpurple70) 0px 30px 90px 30px inset, 0px 0px 5px var(--darkgray) !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 }
 /* pagedoll */
 .container.main::after {
@@ -454,7 +454,7 @@ button.button:hover {
 .breadcrumb::after {
 	content: "CSS by tawnyCollar#251887";
 	color: var(--lightblue);
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	font-size: 16px !important;
 	position: absolute;
 	right: 13%;
@@ -524,7 +524,7 @@ input[type="button"].bad {
 	background: var(--darkblue70);
 	border: 0px ridge;
 	text-align: center;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px !important;
 	float: none;
 	color: var(--lightpurple) !important;
@@ -534,7 +534,7 @@ input[type="button"].bad {
 	background: var(--lightblue70);
 	border: 0px ridge;
 	text-align: center;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px !important;
 	float: none;
 	color: var(--lightpurple) !important;
@@ -544,7 +544,7 @@ input[type="button"].bad {
 	background: var(--lightpink70) !important;
 	text-align: center;
 	border: 0px ridge;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px !important;
 	float: none;
 	color: var(--lightblue);
@@ -555,7 +555,7 @@ input[type="button"].bad {
 div.left {
 	background:  var(--lightblue70) !important;
 	box-shadow: var(--cream80) 0px -50px 36px -28px inset, 1px 1px 5px var(--darkgray) !important;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px !important;
 }
 /* energy bar, bookmarks and achievemnts */
@@ -631,7 +631,7 @@ h3:hover {
 .table {
 	background: var(--cream80);
 	border: 0px ridge;
-	text-shadow: 1.5px 1px 1.5px var(--darkgray);
+	text-shadow: 1px 1px 1.5px var(--darkgray);
 	border-radius: 10px !important;
 	border-collapse: separate;
 	box-shadow: 1px 1px 5px var(--darkgray);
